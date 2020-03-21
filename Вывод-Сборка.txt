@@ -1,0 +1,3 @@
+﻿1>------ Сборка начата: проект: Files, Конфигурация: Debug Any CPU ------
+1>Files -> C:\Users\HP\source\repos\Files\Files\bin\Debug\netcoreapp2.1\Files.dll
+========== Сборка: успешно: 1, с ошибками: 0, без изменений: 0, пропущено: 0 ==========
